@@ -4,7 +4,7 @@
 
 This application assits web developers in creating unqie README's for their application using Node.js from the command line. To utilize this application, users should follow the below steps:
 
-1. Clone the repository from Github: https://github.com/zoeking1221/potential-enigma
+1. Clone the repository from Github: https://github.com/zoeking1221/readme-generator
 2. Open the repository in Visual Studio Code
 3. Open the command line, navigate to the root of the project and run 'npm install inquirer'
 4. Navigate to the Develop folder
