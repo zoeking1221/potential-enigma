@@ -1,43 +1,36 @@
-<!-- @format -->
+# Test Demo Project
 
-# Run Buddy
+  ## Description
+  ![License badge](https://img.shields.io/badge/License-GNU%20LGPLv3-brightgreen)
+  
 
-## Description
+  This is a description of my project.
 
-![License badge](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-brightgreen)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [License](#license)
 
-description
+  ## Installation
+  These are the steps required to install my project.
 
-## Table of Contents
+  ## Usage
+  These are instructions and examples for use.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-- [License](#license)
+  ## Contributing
+  These are the guidelines for how other developers can contribute.
 
-## Installation
+  ## Tests
+  These are examples of how to run tests for my project.
 
-steps required
+  ## Questions
+  Please access my Github via https://github.com/zoeking1221.
+  For other questions, please contact me via email at zoeking1221@gmail.com.
 
-## Usage
-
-instructinos
-
-## Contributing
-
-contribute
-
-## Tests
-
-tests
-
-## Questions
-
-Please access my Github via https://github.com/zoeking1221.
-For other questions, please contact me via email at zoeking1221@gmail.com.
-
-## License
-
-https://choosealicense.com/licenses/mpl-2.0/
+  
+  ## License 
+  https://choosealicense.com/licenses/lgpl-3.0/
+  
