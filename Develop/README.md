@@ -1,4 +1,4 @@
-# Test Demo Project
+# Test Project
 
   ## Description
   ![License badge](https://img.shields.io/badge/License-GNU%20LGPLv3-brightgreen)
@@ -18,10 +18,10 @@
   These are the steps required to install my project.
 
   ## Usage
-  These are instructions and examples for use.
+  These are the instructions and examples for use.
 
   ## Contributing
-  These are the guidelines for how other developers can contribute.
+  These are the guidelines for how other developers can contribute to my project.
 
   ## Tests
   These are examples of how to run tests for my project.
