@@ -1,10 +1,12 @@
 <!-- @format -->
 
-# TITLE
+# Run Buddy
 
 ## Description
 
-descriptionnn
+![License badge](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-brightgreen)
+
+description
 
 ## Table of Contents
 
@@ -17,19 +19,19 @@ descriptionnn
 
 ## Installation
 
-installl
+steps required
 
 ## Usage
 
-usage !
+instructinos
 
 ## Contributing
 
-guidlines
+contribute
 
 ## Tests
 
-test
+tests
 
 ## Questions
 
@@ -38,4 +40,4 @@ For other questions, please contact me via email at zoeking1221@gmail.com.
 
 ## License
 
-Apache 2
+https://choosealicense.com/licenses/mpl-2.0/
